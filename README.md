@@ -1,2 +1,1 @@
-# Proiect Git
-Autor: Nume Prenume
+# Titlu B
